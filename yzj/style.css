@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    color: #fff;
+    background: #F7B282;
+    font-size: 14px;
+    font-family: MicroSoft YaHei;
+}
+.yzj-con{
+    width: 1024px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.yzj-header{
+    width: 100%;
+    height: 300px;
+    border-radius: 4px;
+    background-image: url(./img/header.jpg);
+    background-size: 1024px 300px;
+}
+
+.yzj-div1{
+    width: 100%;
+    height: 255px;
+    margin-top: 10px;
+    box-sizing: border;
+    /*border: 1px solid #2A49A3;*/
+}
+.lf{
+    width: 500px;
+    float: left;
+    overflow: hidden;
+    border-radius: 4px;
+}
+.rf{
+    width: 490px;
+    float: right;
+    overflow: hidden;
+    border-radius: 4px;
+}
+.panle{
+    border: 1px solid #2A49A3;
+    background: #646F9D;
+}
+.pan-title{
+    font-size: 18px;
+    padding: 9px 15px;
+    background-color: #3D53A8;
+}
+.pan-body{
+    padding: 15px;  
+}
+.pan-body p{
+    text-indent: 2em;
+}
+.yzj-footer{
+    width: 100%;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
